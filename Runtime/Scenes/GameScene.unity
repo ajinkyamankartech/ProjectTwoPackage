@@ -176,7 +176,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0539fde8060504fb8a77e5275c4d9643, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  sceneName: Scenes/SampleScene.unity
+  sceneName: Scenes/SampleScene
 --- !u!114 &371811759
 MonoBehaviour:
   m_ObjectHideFlags: 0
